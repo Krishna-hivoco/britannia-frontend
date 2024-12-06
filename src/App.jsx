@@ -26,7 +26,7 @@ function App() {
     try {
       const res = await fetch(
         // "https://sangya.thefirstimpression.ai//api/interactivedemos/save_date",
-        "https://tata-sampann-en.thefirstimpression.ai/api/interactivedemos/save_date",
+        "https://britannia-api.thefirstimpression.ai/api/interactivedemos/save_date",
         {
           method: "POST",
           headers: {

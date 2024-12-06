@@ -99,7 +99,7 @@ function Interaction({ platform }) {
 
   async function sendTextToBackend(text) {
     // const url = "https://sangya.thefirstimpression.ai/process";
-    const url = "https://tata-sampann-en.thefirstimpression.ai/process";
+    const url = "https://britannia-api.thefirstimpression.ai/process";
     try {
       let response = await fetch(
         url,

@@ -133,7 +133,7 @@ function IOSInteraction({ platform }) {
     setIsAPIStillCalling(true);
     try {
       let response = await fetch(
-        "https://tata-sampann-en.thefirstimpression.ai/process",
+        "https://britannia-api.thefirstimpression.ai/process",
 
         // "http://192.168.186.175:8701/api/interactivedemos/process",
         // "http://192.168.1.5:8701/process",
